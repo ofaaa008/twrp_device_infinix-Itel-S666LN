@@ -1,1 +1,1 @@
-## Device config for TWRP Infinix HOT 40 Pro ( Infinix-X6837 )
+## Device config for TWRP Itel RS4 ( Itel-S666LN )

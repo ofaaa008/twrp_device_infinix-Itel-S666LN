@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_X6837.mk
+    $(LOCAL_DIR)/twrp_S666LN.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_X6837-user \
-    twrp_X6837-userdebug \
-    twrp_X6837-eng
+    twrp_S666LN-user \
+    twrp_S666LN-userdebug \
+    twrp_S666LN-eng
