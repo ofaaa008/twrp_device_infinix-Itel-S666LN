@@ -5,7 +5,7 @@
 #
 
 # Inherit from Itel-S666LN device
-$(call inherit-product, device/Itel/Itel-S666LN/device.mk)
+$(call inherit-product, device/itel/Itel-S666LN/device.mk)
 
 # Inherit some common TWRP stuff.
 $(call inherit-product, vendor/twrp/config/common.mk)
